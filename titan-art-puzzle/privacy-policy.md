@@ -1,5 +1,4 @@
 ---
-title: Privacy Policy – Titan Art Puzzle
 permalink: /titan-art-puzzle/privacy-policy/
 ---
 # Privacy Policy – Titan Art Puzzle
