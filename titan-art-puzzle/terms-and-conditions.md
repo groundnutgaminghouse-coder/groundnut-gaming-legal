@@ -1,5 +1,4 @@
 ---
-title: Terms & Conditions – Titan Art Puzzle
 permalink: /titan-art-puzzle/terms-and-conditions/
 ---
 
