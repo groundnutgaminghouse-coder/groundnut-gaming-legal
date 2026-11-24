@@ -1,9 +1,3 @@
-
----
-title: Groundnut Gaming House – Legal
-permalink: /
----
-
 # Groundnut Gaming House
 
 ### Official Legal Information
