@@ -1,6 +1,4 @@
 
-# Groundnut Gaming House
-
 ### Official Legal Information
 
 Welcome to the official legal information website of **Groundnut Gaming House**.
