@@ -1,8 +1,4 @@
 
----
-permalink: /
----
-
 # Groundnut Gaming House
 
 ### Official Legal Information
