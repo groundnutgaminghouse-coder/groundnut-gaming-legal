@@ -12,15 +12,6 @@ Welcome to the official legal information website of **Groundnut Gaming House**.
 Here you can find the Privacy Policies and Terms & Conditions applicable to our games.
 
 We aim to provide clear information about how our games operate, how information is handled, and the terms governing their use.
-# Groundnut Gaming House
-
-### Official Legal Information
-
-Welcome to the official legal information website of **Groundnut Gaming House**.
-
-Here you can find the Privacy Policies and Terms & Conditions applicable to our games.
-
-We aim to provide clear information about how our games operate, how information is handled, and the terms governing their use.
 
 ---
 
