@@ -2,7 +2,7 @@
 permalink: /titan-art-puzzle/terms-and-conditions/
 ---
 
-# Terms & Conditions – Titan Art Puzzle
+# Terms And Conditions – Titan Art Puzzle
 
 **Last updated: November 24, 2026**
 
